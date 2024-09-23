@@ -1,1 +1,2 @@
-Trying out the VIM file editor 
+Trying out the VIM file editor
+this is the second line
